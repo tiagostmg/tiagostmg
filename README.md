@@ -9,7 +9,7 @@
 ### 👋 hi, I'm Tiago
 
 🎓 Computer Science student  
-💻 Passionate about software development, and technology  
+💻 Passionate about software development and technology  
 📚 Always learning and working to become a better developer
 
 ### 🛠️ Skills & Technologies
