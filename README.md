@@ -5,17 +5,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagostmg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
----
+#
+### 👋 hi, I'm Tiago
 
-<img src="https://raw.githubusercontent.com/tiagostmg/tiagostmg/output/snake.svg" alt="Snake animation" />
+🎓 Computer Science student  
+💻 Passionate about software development, and technology  
+📚 Always learning and working to become a better developer
 
----
-
-- 👋 Estudante de Ciência da Computação
-- 🌱 Estudando SpringBoot
-
----
-## Tecnologias
+### 🛠️ Skills & Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
