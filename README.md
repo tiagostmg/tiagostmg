@@ -1,3 +1,6 @@
+# 👋 hi, I'm tiago
+
+<!--
 <h1 align="center">👋 hi, I'm Tiago</h1>
 
 <div align="center">
@@ -6,6 +9,7 @@
 </div>
 
 #
+  -->
 
 🎓 Computer Science student  
 💻 Passionate about software development and technology  
