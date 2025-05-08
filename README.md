@@ -15,7 +15,7 @@
 💻 Passionate about software development and technology  
 📚 Always learning and working to become a better developer
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
